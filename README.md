@@ -45,6 +45,8 @@ The following questions are explored in this case study:
 
 ## Data Visualization
 
+See the [Interactive Dashboard](https://public.tableau.com/app/profile/tableau7010) live on my Tableau Public Profile
+
 ![](Ecommerce_users_analysis.png)
 
 
