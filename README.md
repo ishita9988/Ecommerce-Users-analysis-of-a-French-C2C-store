@@ -45,4 +45,6 @@ The following questions are explored in this case study:
 
 ## Data Visualization
 
+![]()
+
 
