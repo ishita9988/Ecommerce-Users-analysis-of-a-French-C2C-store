@@ -45,6 +45,6 @@ The following questions are explored in this case study:
 
 ## Data Visualization
 
-![]()
+![](Ecommerce users analysis.png)
 
 
