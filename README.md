@@ -47,6 +47,6 @@ The following questions are explored in this case study:
 
 See the [Interactive Dashboard](https://public.tableau.com/app/profile/tableau7010) live on my Tableau Public Profile
 
-![](Ecommerce_users_analysis.png)
 
+![Ecommerce users analysis](https://github.com/ishita9988/Ecommerce-Users-analysis-of-a-French-C2C-store/assets/129153274/bc9d6b74-619c-40d9-8999-31584f858070)
 
