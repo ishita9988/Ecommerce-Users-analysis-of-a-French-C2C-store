@@ -1,12 +1,15 @@
 # Ecommerce-Users-analysis-of-a-French-C2C-store
 
+![ecommerce](https://github.com/ishita9988/Ecommerce-Users-analysis-of-a-French-C2C-store/assets/129153274/2b313629-cae4-42e5-a9f7-f05837bb5cc2)
+
+
 ## Introduction
 
-The project involves analyzing user data using MySQL and Tableau. The focus is on examining the different characteristics of users and sellers. The main goal is to study shopping patterns, sales, purchases, and user engagement to improve the business.
+C2C is a business model whereby customers can trade with each other. The project involves analyzing user data using MySQL. The focus is on examining the different characteristics of users and sellers. The main goal is to study shopping patterns, sales, purchases, and user engagement to improve the business.
 
 ## Dataset
 
-* From Kaggle
+* From [Kaggle](https://www.kaggle.com/datasets/jmmvutu/ecommerce-users-of-a-french-c2c-fashion-store)
 * The data was scraped from a successful online C2C fashion store with over 10M registered users. 
 * The store was first launched in Europe around 2009 then expanded worldwide.
 * The dataset has 24 columns.
@@ -14,7 +17,6 @@ The project involves analyzing user data using MySQL and Tableau. The focus is o
 ## Tools
 
 * MySQL
-* Tableau
 
 ## Problem Statement
 
@@ -43,10 +45,12 @@ The following questions are explored in this case study:
 * Display the number of male users of each country at ecommerce platform.
 * Calculate the average number of products sold and bought on ecommerce platform by male users for each country.
 
-## Data Visualization
+## Insights
 
-See the [Interactive Dashboard](https://public.tableau.com/app/profile/tableau7010) live on my Tableau Public Profile
-
-
-![Ecommerce users analysis](https://github.com/ishita9988/Ecommerce-Users-analysis-of-a-French-C2C-store/assets/129153274/bc9d6b74-619c-40d9-8999-31584f858070)
-
+*  Users from different countries are using this website.
+*  Women are responsible for majority of transactions on the platform.
+*  Female users have more followers than male users.
+*  Top 10 countries having maximum products pass rate.
+*  France has the maximum no of buyers and sellers.
+*  Around 80% of users have not logged in recently indicating a low overall engagement on the platform.
+ 
