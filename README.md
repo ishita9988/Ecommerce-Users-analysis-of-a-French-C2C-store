@@ -5,7 +5,7 @@
 
 ## Introduction
 
-C2C is a business model whereby customers can trade with each other. The project involves analyzing user data using MySQL. The focus is on examining the different characteristics of users and sellers. The main goal is to study shopping patterns, sales, purchases, and user engagement to improve the business.
+C2C is a business model whereby customers can trade with each other. The project involves analyzing user data using MySQL and Tableau. The focus is on examining the different characteristics of users and sellers. The main goal is to study shopping patterns, sales, purchases, and user engagement to improve the business.
 
 ## Dataset
 
@@ -17,7 +17,8 @@ C2C is a business model whereby customers can trade with each other. The project
 ## Tools
 
 * MySQL
-
+* Tableau
+  
 ## Problem Statement
 
 The following questions are explored in this case study:
@@ -44,6 +45,10 @@ The following questions are explored in this case study:
 * Display the number of female users of each country at ecommerce platform.
 * Display the number of male users of each country at ecommerce platform.
 * Calculate the average number of products sold and bought on ecommerce platform by male users for each country.
+  
+## [Interactive Dashboard](https://public.tableau.com/app/profile/tableau7010)
+
+![Ecommerce users analysis (1)](https://github.com/ishita9988/Ecommerce-Users-analysis-of-a-French-C2C-store/assets/129153274/4675d5ee-3f00-48a6-9771-35f29d06e889)
 
 ## Insights
 
